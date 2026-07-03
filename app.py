@@ -81,7 +81,7 @@ def walk_in_flow():
         print(error("✘ Nome do paciente não pode estar vazio."))
         return
 
-    add_walk_in(patient, resolved, priority)
+
     from utils.time_utils import end_time
     ok, result = add_walk_in(patient, resolved, priority)
     if ok:
