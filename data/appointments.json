@@ -1,0 +1,54 @@
+{
+  "appointments": [
+    {
+      "id": 1,
+      "patient": "Ana",
+      "doctor": "Cardio",
+      "time": "08:00",
+      "insurance": "A",
+      "priority": "normal",
+      "status": "scheduled",
+      "room": "101"
+    },
+    {
+      "id": 2,
+      "patient": "Carlos",
+      "doctor": "Ortho",
+      "time": "08:30",
+      "insurance": "B",
+      "priority": "urgent",
+      "status": "scheduled",
+      "room": "102"
+    },
+    {
+      "id": 3,
+      "patient": "Bruna",
+      "doctor": "Cardio",
+      "time": "08:00",
+      "insurance": "A",
+      "priority": "normal",
+      "status": "scheduled",
+      "room": "101"
+    },
+    {
+      "id": 4,
+      "patient": "Diego",
+      "doctor": "Pediatrics",
+      "time": "09:00",
+      "insurance": "C",
+      "priority": "emergency",
+      "status": "scheduled",
+      "room": "103"
+    },
+    {
+      "id": 5,
+      "patient": "Eduarda",
+      "doctor": "Ortho",
+      "time": "09:30",
+      "insurance": "B",
+      "priority": "normal",
+      "status": "cancelled",
+      "room": "102"
+    }
+  ]
+}
